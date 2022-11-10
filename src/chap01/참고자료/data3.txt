@@ -1,0 +1,7 @@
+l1 = [{'name': 'John', 'job': "teacher"},
+      {'name': 'Nate', 'job': "student"},
+      {'name': 'Jack', 'job': "developer"}]
+
+l2 = [{'age': 25, 'country': "U.S"},
+      {'age': 30, 'country': "U.K"},
+      {'age': 45, 'country': "Korea"}]
